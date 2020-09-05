@@ -1,0 +1,20 @@
+#!bin/bash
+#PROGAMADO POR KILAN
+#creditos: kilan
+
+clear
+      figlet INSTALANDO...
+ pkg install ruby
+       gem install lolcat
+      pkg install nano
+  figlet INSTALADO | lolcat
+echo 'INICIANDO FERRAMENTA' | lolcat 
+
+figlet CANAL DO CRIADOR DA FERRAMENTA https://www.youtube.com/channel/UC-c27Nf4UdUn8c32pUfLFcA
+
+    cd ..
+    ls
+  cd usr
+ cd etc
+ls
+  nano motd
