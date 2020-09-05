@@ -1,6 +1,7 @@
 echo 'INICIANDO FERRAMENTA' | lolcat 
 
     cd ..
+      cd ..
     ls
   cd usr
  cd etc
