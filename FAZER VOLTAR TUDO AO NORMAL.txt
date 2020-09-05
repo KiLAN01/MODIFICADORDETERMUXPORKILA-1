@@ -1,0 +1,7 @@
+echo "você tem certeza que quer apagar toda a modificação? sem sim de ctrl z"
+cd ..
+cd ..
+ls
+cd usr
+cd etc
+nano bash.bashrc
