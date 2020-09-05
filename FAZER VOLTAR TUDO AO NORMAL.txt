@@ -1,4 +1,4 @@
-echo "você tem certeza que quer apagar toda a modificação? sem sim de ctrl z"
+echo "você tem certeza que quer apagar toda a modificação? sem não de ctrl z"
 cd ..
 cd ..
 ls
