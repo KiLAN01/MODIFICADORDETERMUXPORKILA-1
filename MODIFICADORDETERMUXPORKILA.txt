@@ -1,0 +1,9 @@
+echo 'INICIANDO FERRAMENTA' | lolcat 
+
+    cd ..
+    ls
+  cd usr
+ cd etc
+ls
+nano bash.bashrc
+figlet CANAL DO CRIADOR DA FERRAMENTA https://www.youtube.com/channel/UC-c27Nf4UdUn8c32pUfLFcA | lolcat
