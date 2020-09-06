@@ -5,3 +5,4 @@ ls
 cd usr
 cd etc
 nano bash.bashrc
+#copyright SE ROUBAR MEU PROJETO OU COPIAR ELE.
