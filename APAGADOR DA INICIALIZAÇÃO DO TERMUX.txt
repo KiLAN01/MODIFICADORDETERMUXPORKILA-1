@@ -19,3 +19,6 @@ echo "CANAL DO CRIADOR DA FERRAMENTA https://www.youtube.com/channel/UC-c27Nf4Ud
  cd etc
 ls
   nano motd
+  #copyright SE ROUBAR MEU PROJETO OU COPIAR ELE.
+  
+
