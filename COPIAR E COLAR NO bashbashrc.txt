@@ -1,7 +1,6 @@
-figlet BEM VINDO USERNAME | lolcat
-echo " AQUI ESTÁ A DATA DE HOJE AMIGO <3"
+figlet WELCOME USERNAME | lolcat
+echo " HERE IS THE DATE OF TODAY FRIEND <3"
 date | lolcat
 setterm -foreground red -store
 PS1="root@termux$"
-#progamado pro kilan
-#copyright SE ROUBAR OU COPIAR A FERRAMENTA.
+code by kilan
