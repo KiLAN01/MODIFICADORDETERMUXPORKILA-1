@@ -12,7 +12,7 @@ magenta='\033[1;35m'
 
 
 
-echo 'STARTING TOOL' | lolcat 
+echo -e '${amarelo}STARTING TOOL'
 
     cd ..
       cd ..
